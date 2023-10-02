@@ -1,4 +1,4 @@
-### Hi there 👋
+I upload school projects lol
 
 <!--
 **CharlyVemor/CharlyVemor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
