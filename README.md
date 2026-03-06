@@ -1,4 +1,4 @@
-My college project repository
+My college projects repositories
 
 <!--
 **CharlyVemor/CharlyVemor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
